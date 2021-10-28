@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ```node
+```javascript
 const WhoAmI = {
   pronouns: "he" | "him",
   user: "André Souza",
@@ -27,10 +27,10 @@ function Ambitions() {
 	createProgramingLanguages()
 //Assume 10 more awesome ambitions here ;)
 	} 
-  ```
-   <!-- <img width="250" align="right" src="https://i.gifer.com/xK.gif"> --!>
+```
+   <!-- <img width="250" align="right" src="https://i.gifer.com/xK.gif"> -->
 
-<h3 align="left"><!-- <img src="https://i.gifer.com/fxVE.gif" width="50"> --!>About myself...</h3>
+<h3 align="left"><!-- <img src="https://i.gifer.com/fxVE.gif" width="50"> -->About myself...</h3>
 <p>🆙 I'm currently a fullstack react development student. </p>
 <p>👾 I’m currently working at a internet service provider looking for career transition.</p>
 
@@ -58,7 +58,6 @@ function Ambitions() {
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a> 
-
 </p>
 
 ##
@@ -72,11 +71,15 @@ function Ambitions() {
 <div>
   <a href="https://github.com/als260502">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=als260502&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als260502&layout=compact&langs_count=7&theme=dark"/>
+</a>
 </div>
 </div>
 <br>
+
 ![visitante](https://komarev.com/ghpvc/?username=your-github-als260502&color=ff69b4&style=flat&label=visitors)
+
 <!--
 **als260502/als260502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
