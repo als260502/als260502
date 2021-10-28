@@ -75,10 +75,8 @@ function Ambitions() {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als260502&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
-
 <br>
-
-
+![visitante](https://komarev.com/ghpvc/?username=your-github-als260502&color=ff69b4&style=flat&label=visitors)
 <!--
 **als260502/als260502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
