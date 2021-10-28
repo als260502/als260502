@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```javascript
+```node
 const WhoAmI = {
   pronouns: "he" | "him",
   user: "André Souza",
@@ -25,10 +25,11 @@ function Ambitions() {
 	playDndInARealCastleAtScotland()
 	createGames()
 	createProgramingLanguages()
-//Assume 10 more awesome ambitions here ;)
-	} 
+	//Assume 10 more awesome ambitions here ;)
+} 
 ```
-   <!-- <img width="250" align="right" src="https://i.gifer.com/xK.gif"> -->
+
+<!-- <img width="250" align="right" src="https://i.gifer.com/xK.gif"> -->
 
 <h3 align="left"><!-- <img src="https://i.gifer.com/fxVE.gif" width="50"> -->About myself...</h3>
 <p>🆙 I'm currently a fullstack react development student. </p>
