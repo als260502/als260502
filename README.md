@@ -2,7 +2,6 @@
 
 ```node
 const WhoAmI = {
-  pronouns: "he" | "him",
   user: "André Souza",
   role: "fulstack",
   current_edu: "Rocketseat",
